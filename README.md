@@ -25,7 +25,7 @@ Este é um projeto de estudos que implementa uma API REST CRUD (Create, Read, Up
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/go-crud-api.git
+git clone https://github.com/ejunior89/go-crud-api.git
 cd go-crud-api
 ```
 
