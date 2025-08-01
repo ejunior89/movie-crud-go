@@ -260,6 +260,4 @@ LOG_FILE=app.log
 
 Este é um projeto de estudos, mas sugestões e melhorias são sempre bem-vindas!
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. 
